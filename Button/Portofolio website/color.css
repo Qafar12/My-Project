@@ -1,0 +1,16 @@
+.user{
+    color: aqua;
+}
+.button{
+    color: blue;
+    margin-left: 15pxpx;
+    margin-bottom: 16px;
+   border: none;
+    text-decoration: underline;
+    
+}
+.reset{
+    color: blue;
+  text-decoration: underline;
+  border-radius: 100px;
+}
